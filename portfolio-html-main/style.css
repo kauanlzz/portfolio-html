@@ -1,0 +1,20 @@
+.Skills span {
+    padding: 3px;
+}
+.Skills {
+    display:grid;
+}
+
+.Conceitos span{
+    padding: 3px;
+}
+.Conceitos{
+    display: grid;
+}
+
+.Ferramentas {
+    display: grid;
+}
+.Ferramentas span{
+    padding: 3px;
+}

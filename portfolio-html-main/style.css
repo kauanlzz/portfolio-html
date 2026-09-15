@@ -18,3 +18,9 @@
 .Ferramentas span{
     padding: 3px;
 }
+.contatos{
+    display: grid;
+}
+.contatos span{
+    padding: 3px;
+}

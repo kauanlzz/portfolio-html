@@ -1,26 +1,45 @@
+h1 {
+    text-align: center;
+}
+
+.header {
+    background-image: url('imagem-fundo.jpg');
+    margin-right: -1%;
+    margin-top: -2%;
+    margin-left: -1%;
+    padding: 150px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.Intro p {
+    text-align: justify;
+    width: 350px;
+    margin-left: 750px;
+}
+
 .Skills span {
     padding: 3px;
 }
+
 .Skills {
-    display:grid;
-}
-
-.Conceitos span{
-    padding: 3px;
-}
-.Conceitos{
+    margin-bottom: 30%;
+    display: inline-block;
     display: grid;
 }
 
-.Ferramentas {
+.contatos {
     display: grid;
 }
-.Ferramentas span{
+
+.contatos span {
     padding: 3px;
 }
-.contatos{
-    display: grid;
+
+main {
+    text-align: center;
 }
-.contatos span{
-    padding: 3px;
+
+footer {
+    text-align: center;
 }

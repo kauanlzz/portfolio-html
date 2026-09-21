@@ -7,3 +7,38 @@ h1{
     margin: 0 auto;
     text-align: justify;
 }
+
+.skills {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    height: 300px;
+    
+}
+
+#certificado{
+    height: 40px;
+    margin:8px;
+    text-align: center;
+}
+
+.nomes-certificado{
+    text-align: center;
+}
+
+.lista-certificado{
+    list-style: none;
+}
+
+#skill{
+    margin-top: 150px;
+    text-align: center;
+}
+
+.categoria {
+    text-align: center;
+    
+}
+.categoria p {
+    margin: 8px 0;
+}

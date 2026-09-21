@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+.intro{
+    width: 500px;
+    margin: 0 auto;
+    text-align: justify;
+}

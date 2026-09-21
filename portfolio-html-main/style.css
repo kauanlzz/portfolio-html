@@ -2,6 +2,10 @@ h1{
     text-align: center;
 }
 
+h2 {
+    margin: 56px 0 32px;
+}
+
 .intro{
     width: 500px;
     margin: 0 auto;
@@ -18,7 +22,7 @@ h1{
 
 #certificado{
     height: 40px;
-    margin:8px;
+    margin: 56px 0 32px;
     text-align: center;
 }
 
@@ -31,8 +35,9 @@ h1{
 }
 
 #skill{
-    margin-top: 150px;
+    margin: 150px 0 32px;
     text-align: center;
+    
 }
 
 .categoria {
@@ -41,4 +46,23 @@ h1{
 }
 .categoria p {
     margin: 8px 0;
+}
+
+#experiência{
+    height: 40px;
+    margin: 150px 0 32px;
+    text-align: center;
+}
+
+.empresas{
+    text-align: center;
+}
+
+.vendas {
+    margin-top: 32px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
 }

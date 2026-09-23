@@ -1,4 +1,10 @@
-h1{
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #020000;
+    color: #fdfdfd;
+}
+
+h1 {
     text-align: center;
 }
 
@@ -6,7 +12,7 @@ h2 {
     margin: 56px 0 32px;
 }
 
-.intro{
+.intro {
     width: 500px;
     margin: 0 auto;
     text-align: justify;
@@ -17,44 +23,41 @@ h2 {
     justify-content: center;
     gap: 80px;
     height: 300px;
-    
+
 }
 
-#certificado{
+#certificado {
     height: 40px;
     margin: 56px 0 32px;
     text-align: center;
 }
 
-.nomes-certificado{
+.nomes-certificado {
     text-align: center;
 }
 
-.lista-certificado{
-    list-style: none;
-}
-
-#skill{
+#skill {
     margin: 150px 0 32px;
     text-align: center;
-    
+
 }
 
 .categoria {
     text-align: center;
-    
+
 }
+
 .categoria p {
     margin: 8px 0;
 }
 
-#experiência{
+#experiência {
     height: 40px;
     margin: 150px 0 32px;
     text-align: center;
 }
 
-.empresas{
+.empresas {
     text-align: center;
 }
 
@@ -65,4 +68,27 @@ h2 {
 
 footer {
     text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #fdfdfd;
+}
+
+a:hover {
+    color: #fdfdfd;
+    text-decoration: underline;
+}
+
+.box1{
+    background-color: #1c0002;
+    padding: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 15px rgba(68, 3, 8, 0.45);
+    width: 500px;
+    margin: 40px auto 0;
+    
 }
